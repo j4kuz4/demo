@@ -5,4 +5,5 @@ container:
   ## dalsi GIT text
   image: cloudnatived/demo
   tag: hello
-replicas: 2
+#novy GIT text
+replicas: 4
