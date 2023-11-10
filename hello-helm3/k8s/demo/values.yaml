@@ -6,4 +6,4 @@ container:
   image: cloudnatived/demo
   tag: hello
 #novy GIT text
-replicas: 4
+replicas: 2
